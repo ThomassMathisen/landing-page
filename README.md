@@ -1,1 +1,2 @@
 # landing-page
+This project is a real test of what I have learned about CSS, and as well a good practice with HTML. Going from a blank page, to seeing the parts appearing, to everything looking beautiful is a real joy.
